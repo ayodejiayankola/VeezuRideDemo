@@ -1,24 +1,11 @@
-//
-//  ContentView.swift
-//  VeezuRideDemo
-//
-//  Created by Ayodeji Ayankola on 29/10/2025.
-//
-
 import SwiftUI
 
-struct ContentView: View {
+struct RideHailingAppView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        RideHailingScreen()
     }
 }
 
-#Preview {
-    ContentView()
+#Preview("Main App") {
+    RideHailingAppView()
 }
