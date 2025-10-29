@@ -120,17 +120,6 @@ A few visuals to showcase the app's interface and simulation in action.
 
 ---
 
-##  Getting Started
-
-
-1. Clone the repository
-2. Open `VeezuRideDemo.xcodeproj` in Xcode
-3. Build and run on iOS Simulator or device
-4. Grant location permissions when prompted
-
-
-
-
 ## Setup & Installation
 
 ### Requirements
@@ -144,7 +133,7 @@ A few visuals to showcase the app's interface and simulation in action.
 
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ayodejiayankola/VeezuRideDemo>
    cd VeezuRideDemo
    ```
 
