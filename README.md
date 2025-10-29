@@ -133,7 +133,7 @@ A few visuals to showcase the app's interface and simulation in action.
 
 1. **Clone Repository**
    ```bash
-   git clone <https://github.com/ayodejiayankola/VeezuRideDemo>
+   git clone https://github.com/ayodejiayankola/VeezuRideDemo
    cd VeezuRideDemo
    ```
 
