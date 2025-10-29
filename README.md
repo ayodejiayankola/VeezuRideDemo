@@ -92,19 +92,31 @@ This structure mirrors modern iOS production patterns, focusing on clarity, modu
 
 A few visuals to showcase the app's interface and simulation in action.
 
+### Mock up 
+<img width="1536" height="1024" alt="Prototype" src="https://github.com/user-attachments/assets/3a331b33-44d8-4c77-a253-b3cc894191b8" />
+
+
 ### Screenshots
+
+
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](path/to/light-mode-screenshot.png) | ![Dark Mode](path/to/dark-mode-screenshot.png) |
+| <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-29 at 15 48 12" src="https://github.com/user-attachments/assets/7161d3ce-2c35-4c43-86a9-329001ce4e56" /> | <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-29 at 15 47 59" src="https://github.com/user-attachments/assets/88899cd7-62fa-4915-91fa-dacbe1bb0886" /> |
 
 *Interactive map simulation showing available drivers with real-time location updates and booking panel*
 
 ---
 
-### Video Walkthrough
+### Booking Flow States
 
-[![Watch the demo](path/to/thumbnail.png)](path/to/demo-video.mp4)
+| Request Ride State | Searching State | Driver Assigned State |
+|:------------------:|:---------------:|:----------------------:|
+| <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/8a153aed-fae9-4ff2-8970-f291e778969d" /> | <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/75e9ed70-2a13-421f-9adb-463536c910fe" /> |<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/a6f41597-3e10-41be-a032-1d21a7ee8d43" />|
+
+
+
+
 
 ---
 
