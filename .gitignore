@@ -1,0 +1,8 @@
+# Xcode user data
+*.xcuserdatad
+*.xcuserdata
+*.xcuserstate
+
+# Derived data / build products (safety)
+DerivedData/
+build/
